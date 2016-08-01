@@ -1,0 +1,66 @@
+.container {
+	max-width: 1200px;
+	width: 100%;
+	height: auto;
+}
+
+.borde-lineal {
+	border: 1px solid #B8B5B5;
+	padding: 0 125px 10px 125px;
+	margin: 42px;
+
+}
+
+
+.identificador img {
+	border-radius: 50%;
+	margin-top: 30px;
+}
+
+.identificador p {
+	text-align: center;
+	font-size: 25px;
+	margin: 0 60px;
+}
+
+h2 {
+	left: 
+}
+
+.medidor {
+	background-color: #807E7E;
+	height: 35px;
+	margin: 0 0 10px 24px;
+	color: white;
+	padding: 10px 0 0 10px;
+}
+
+.medidor1 {
+	width: 600px;
+}
+
+.medidor2 {
+	width: 400px;
+}
+
+.medidor3 {
+	width: 200px;
+}
+
+.box-center {
+	margin: 0 40px;
+	height: 200px;
+
+}
+
+.foto-port img {
+	width: 228px;
+	float: left;
+	margin: 10px;
+}
+
+
+
+
+
+
